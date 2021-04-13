@@ -10,6 +10,7 @@
 MCU를 통해 조그마한 개인 프로젝트를 진행하시는 분들께서 Serial communication 동작을 확인하시고자 혹은 자동적인 데이터 수집을 원하시는 경우 해당 프로그램이 큰 도움이 될 것이라 생각합니다.
 
 ## 주요내용
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/77289992-7f469500-6d1e-11ea-9673-4d6cc1b13ea7.PNG" width="80%" height="80%"></p>
 ![캡처](https://user-images.githubusercontent.com/54430715/77289992-7f469500-6d1e-11ea-9673-4d6cc1b13ea7.PNG)
 
 - 사용방법
